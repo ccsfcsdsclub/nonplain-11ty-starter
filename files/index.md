@@ -1,16 +1,14 @@
 ---
-title: About this site
+title: About Us
 permalink: /
 ---
 
-This site was built with [**nonplain.js**](https://github.com/nonplain/nonplain.js) and [**11ty**](https://www.11ty.dev/).
+Welcome to CCSF Computer Science & Data Science Club
 
-Out of the box, this starter is:
+Member Registration Form: [Form](https://2lpk2pir4qw.typeform.com/to/YYwiizeT)
 
-- Simple
-- Accessible
-- Performant
-- Responsive
-- Development-ready
+Discord Channel: [**CCSF CS & DS Club**](https://discord.gg/KKrtf7JpDQ)
 
-Start creating content right away. Just [fork this starter on GitHub](https://github.com/nonplain/nonplain-11ty-starter) and edit the `.md` files in the "files" directory.
+Instagram: [**@ccsfcsdsclub**](https://www.instagram.com/ccsfcsdsclub/)
+
+GitHub: [**ccsfcsdsclub**](https://github.com/ccsfcsdsclub)
